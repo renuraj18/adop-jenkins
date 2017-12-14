@@ -1,4 +1,4 @@
-FROM jenkins:2.7.4
+FROM jenkinsci/blueocean
 
 MAINTAINER Nick Griffin, <nicholas.griffin>
 
